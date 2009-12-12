@@ -5,6 +5,7 @@ use warnings;
 
 use CGI::Util qw(unescape);
 use FLV::ToMP3;
+use File::Basename;
 use FindBin;
 use Getopt::Long;
 use IO::All;
@@ -73,11 +74,7 @@ sub _flv2mp3 {
     my ( $filename ) = @_;
 
     my $flv_filename = $filename;
-    my $mp3_filename = do {
-        my $fn = $flv_filename;
-        $fn =~ s/\.[^\.]*$/.mp3/;
-        $fn;
-    };
+    my $mp3_filename = basename($flv_filename, "flv") . "mp3";
 
     my $converter = FLV::ToMP3->new();
     $converter->parse_flv($flv_filename);
@@ -235,6 +232,7 @@ main: {
         #my $extension = _extension( $flv_res->headers->content_type );
         my $extension = "flv";
         my $filename  = join(".", $basename, $extension);
+        $filename =~ s/\// - /g;
 
         if (-f $filename) {
             printf("%s exists. skipping...\n", $filename);
