@@ -1,147 +1,150 @@
-foil bokutin % date
-2009年 12月13日 日曜日 04時56分30秒 JST
-foil bokutin % ls
-scribble        script          tmp
-foil bokutin % script/youtube-downloader.pl --user 19770415; date
-ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.flv saved.
-ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv exists. saved.
-ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv exists. saved.
-ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv exists. saved.
-ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv exists. saved.
-ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv exists. saved.
-ピアノ演奏　『蕾』　：　コブクロ.flv exists. saved.
-ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.flv saved.
-ピアノ演奏　『シネマノスタルジー』　：　久石 譲.flv saved.
-ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.flv saved.
-ピアノ演奏　『風笛』　：　大島 ミチル.flv exists. saved.
-ピアノ演奏　『風のように』　：　S.E.N.S..flv exists. saved.
-ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv exists. saved.
-ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.flv saved.
-ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv exists. saved.
-ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.flv saved.
-ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.flv saved.
-ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv exists. saved.
-ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.flv saved.
-ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv exists. saved.
-ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv exists. saved.
-ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv exists. saved.
-ピアノ演奏　『Longing - Love』　：　George Winston.flv saved.
-ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.flv saved.
-ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.flv saved.
-ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.flv saved.
-ピアノ演奏　〜　冬のソナタ　〜　『初めて』.flv saved.
-ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.flv saved.
-ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.flv saved.
-ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.flv saved.
-ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.flv saved.
-ピアノ演奏　〜　ライムライト　〜　『ライムライト』.flv saved.
-ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.flv saved.
-ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.flv saved.
-ピアノ演奏　〜　ふたり　〜　『草の想い』.flv saved.
-ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.flv saved.
-ピアノ演奏　『旅』　：　西村 由紀江.flv saved.
-ピアノ演奏　『ひだまり』　：　西村 由紀江.flv saved.
-ピアノ演奏　『好き』　：　西村 由紀江.flv saved.
-ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.flv saved.
-ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.flv saved.
-ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.flv saved.
-ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.flv saved.
-ピアノ演奏　『黄昏のワルツ』　：　加古 隆.flv saved.
-2009年 12月13日 日曜日 07時23分04秒 JST
-foil bokutin % ls -al
-total 535312
-drwxr-xr-x  94 bokutin  staff      3196 12 13 07:34 .
-drwxr-xr-x  51 bokutin  staff      1734 12 13 07:34 ..
-drwxr-xr-x  12 bokutin  staff       408 12 13 06:29 .git
-drwxr-xr-x   5 bokutin  staff       170 12 13 03:03 scribble
-drwxr-xr-x   5 bokutin  staff       170 12 13 06:20 script
-drwxr-xr-x   6 bokutin  staff       204 12 13 04:00 tmp
--rw-r--r--   1 bokutin  staff   4439816  2  6  2009 ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv
--rw-r--r--   1 bokutin  staff   2357916  2  6  2009 ピアノ演奏　〜 天国の階段 〜　『会いたい』.mp3
--rw-r--r--   1 bokutin  staff   2784019  2  8  2009 ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv
--rw-r--r--   1 bokutin  staff   1471425  2  8  2009 ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.mp3
--rw-r--r--   1 bokutin  staff   2705580  3 11  2009 ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.flv
--rw-r--r--   1 bokutin  staff   1458886  3 11  2009 ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.mp3
--rw-r--r--   1 bokutin  staff   4807279  4  6  2009 ピアノ演奏　『Longing - Love』　：　George Winston.flv
--rw-r--r--   1 bokutin  staff   1086484  4  6  2009 ピアノ演奏　『Longing - Love』　：　George Winston.mp3
--rw-r--r--   1 bokutin  staff   4295784  3 12  2009 ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv
--rw-r--r--   1 bokutin  staff   2085198  3 12  2009 ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.mp3
--rw-r--r--   1 bokutin  staff   2591073  4  5  2009 ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.flv
--rw-r--r--   1 bokutin  staff   1237786  4  5  2009 ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.mp3
--rw-r--r--   1 bokutin  staff   3872830  2  6  2009 ピアノ演奏　『旅』　：　西村 由紀江.flv
--rw-r--r--   1 bokutin  staff   1877681  2  6  2009 ピアノ演奏　『旅』　：　西村 由紀江.mp3
--rw-r--r--   1 bokutin  staff   3189837 11 17  2008 ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.flv
--rw-r--r--   1 bokutin  staff   1548747 11 17  2008 ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.mp3
--rw-r--r--   1 bokutin  staff   3037469 11 17  2008 ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.flv
--rw-r--r--   1 bokutin  staff   1472052 11 17  2008 ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.mp3
--rw-r--r--   1 bokutin  staff   5658834  4 14  2009 ピアノ演奏　『好き』　：　西村 由紀江.flv
--rw-r--r--   1 bokutin  staff   2308683  4  7  2009 ピアノ演奏　『風笛』　：　大島 ミチル.flv
--rw-r--r--   1 bokutin  staff   1239950  4 14  2009 ピアノ演奏　『好き』　：　西村 由紀江.mp3
--rw-r--r--   1 bokutin  staff   1093799  4  7  2009 ピアノ演奏　『風笛』　：　大島 ミチル.mp3
--rw-r--r--   1 bokutin  staff   3032958  3 15  2009 ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv
--rw-r--r--   1 bokutin  staff   1398909  3 15  2009 ピアノ演奏　『ラピシア』　：　 加羽沢美濃.mp3
--rw-r--r--   1 bokutin  staff   2456043 11 18  2008 ピアノ演奏　『風のように』　：　S.E.N.S..flv
--rw-r--r--   1 bokutin  staff   1181779 11 18  2008 ピアノ演奏　『風のように』　：　S.E.N.S..mp3
--rw-r--r--   1 bokutin  staff   3630642  3 29  2009 ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.flv
--rw-r--r--   1 bokutin  staff   1682076  3 29  2009 ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.mp3
--rw-r--r--   1 bokutin  staff   4371996  2 11  2009 ピアノ演奏　『蕾』　：　コブクロ.flv
--rw-r--r--   1 bokutin  staff   2319464  2 11  2009 ピアノ演奏　『蕾』　：　コブクロ.mp3
--rw-r--r--   1 bokutin  staff   4556244  4 14  2009 ピアノ演奏　『ひだまり』　：　西村 由紀江.flv
--rw-r--r--   1 bokutin  staff    993843  4 14  2009 ピアノ演奏　『ひだまり』　：　西村 由紀江.mp3
--rw-r--r--   1 bokutin  staff   5098638  4 14  2009 ピアノ演奏　『黄昏のワルツ』　：　加古 隆.flv
--rw-r--r--   1 bokutin  staff   1106613  4 14  2009 ピアノ演奏　『黄昏のワルツ』　：　加古 隆.mp3
--rw-r--r--   1 bokutin  staff   7841425  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.flv
--rw-r--r--   1 bokutin  staff   1700880  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.mp3
--rw-r--r--   1 bokutin  staff   9807631 11 18  2008 ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv
--rw-r--r--   1 bokutin  staff   5239745 11 18  2008 ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.mp3
--rw-r--r--   1 bokutin  staff   4199427 11 18  2008 ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv
--rw-r--r--   1 bokutin  staff   7876926  4 14  2009 ピアノ演奏　〜　ふたり　〜　『草の想い』.flv
--rw-r--r--   1 bokutin  staff   2055523 11 18  2008 ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.mp3
--rw-r--r--   1 bokutin  staff   1736173  4 14  2009 ピアノ演奏　〜　ふたり　〜　『草の想い』.mp3
--rw-r--r--   1 bokutin  staff   2488914 11 17  2008 ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.flv
--rw-r--r--   1 bokutin  staff   1195781 11 17  2008 ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.mp3
--rw-r--r--   1 bokutin  staff   6284351  4  6  2009 ピアノ演奏　〜　冬のソナタ　〜　『初めて』.flv
--rw-r--r--   1 bokutin  staff   1432555  4  6  2009 ピアノ演奏　〜　冬のソナタ　〜　『初めて』.mp3
--rw-r--r--   1 bokutin  staff   4320732  2  7  2009 ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv
--rw-r--r--   1 bokutin  staff   2293760  2  7  2009 ピアノ演奏　『蒼くやさしく』　：　コブクロ.mp3
--rw-r--r--   1 bokutin  staff   4754402  3 29  2009 ピアノ演奏　『シネマノスタルジー』　：　久石 譲.flv
--rw-r--r--   1 bokutin  staff   2342661  3 29  2009 ピアノ演奏　『シネマノスタルジー』　：　久石 譲.mp3
--rw-r--r--   1 bokutin  staff   5017100  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.flv
--rw-r--r--   1 bokutin  staff   1086408  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.mp3
--rw-r--r--   1 bokutin  staff   4378081  4  6  2009 ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv
--rw-r--r--   1 bokutin  staff   4388865  3 15  2009 ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv
--rw-r--r--   1 bokutin  staff   2369416 10  1 18:14 ピアノ演奏　〜　ライムライト　〜　『ライムライト』.flv
--rw-r--r--   1 bokutin  staff   2528357  2 11  2009 ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.flv
--rw-r--r--   1 bokutin  staff   5630038  4  5  2009 ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.flv
--rw-r--r--   1 bokutin  staff  12087473  4 14  2009 ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.flv
--rw-r--r--   1 bokutin  staff   5568349 11 18  2008 ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.flv
--rw-r--r--   1 bokutin  staff    984293  4  6  2009 ピアノ演奏　『青春の輝き』　：　カーペンターズ.mp3
--rw-r--r--   1 bokutin  staff   2132427  3 15  2009 ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.mp3
--rw-r--r--   1 bokutin  staff    987246 10  1 18:14 ピアノ演奏　〜　ライムライト　〜　『ライムライト』.mp3
--rw-r--r--   1 bokutin  staff   1205812  2 11  2009 ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.mp3
--rw-r--r--   1 bokutin  staff   1737038  4  5  2009 ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.mp3
--rw-r--r--   1 bokutin  staff   2667497  4 14  2009 ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.mp3
--rw-r--r--   1 bokutin  staff   2747663 11 18  2008 ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.mp3
--rw-r--r--   1 bokutin  staff   2802833  3 13  2009 ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.flv
--rw-r--r--   1 bokutin  staff   2440189  2  9  2009 ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.flv
--rw-r--r--   1 bokutin  staff   1340186  3 13  2009 ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.mp3
--rw-r--r--   1 bokutin  staff   1291493  2  9  2009 ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.mp3
--rw-r--r--   1 bokutin  staff   6480877  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.flv
--rw-r--r--   1 bokutin  staff   1418835  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.mp3
--rw-r--r--   1 bokutin  staff   2645164 11 17  2008 ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.flv
--rw-r--r--   1 bokutin  staff   3985422  2 19  2009 ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.flv
--rw-r--r--   1 bokutin  staff   4680131  4 15  2009 ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.flv
--rw-r--r--   1 bokutin  staff   1277283 11 17  2008 ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.mp3
--rw-r--r--   1 bokutin  staff   1967751  2 19  2009 ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.mp3
--rw-r--r--   1 bokutin  staff    994682  4 15  2009 ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.mp3
--rw-r--r--   1 bokutin  staff   2754615 11 17  2008 ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.flv
--rw-r--r--   1 bokutin  staff   1327229 11 17  2008 ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.mp3
--rw-r--r--   1 bokutin  staff   2395006 11 18  2008 ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv
--rw-r--r--   1 bokutin  staff   1147924 11 18  2008 ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.mp3
--rw-r--r--   1 bokutin  staff   7402607  4 14  2009 ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.flv
--rw-r--r--   1 bokutin  staff   1604435  4 14  2009 ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.mp3
--rw-r--r--   1 bokutin  staff   5803787  4  6  2009 ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.flv
--rw-r--r--   1 bokutin  staff   1324930  4  6  2009 ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.mp3
--rw-r--r--   1 bokutin  staff   7649581  4 15  2009 ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv
--rw-r--r--   1 bokutin  staff   1622919  4 15  2009 ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.mp3
-foil bokutin %
+実行サンプル
+========================================================================
+
+	foil bokutin % date
+	2009年 12月13日 日曜日 04時56分30秒 JST
+	foil bokutin % ls
+	scribble        script          tmp
+	foil bokutin % script/youtube-downloader.pl --user 19770415; date
+	ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.flv saved.
+	ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv exists. saved.
+	ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv exists. saved.
+	ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv exists. saved.
+	ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv exists. saved.
+	ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv exists. saved.
+	ピアノ演奏　『蕾』　：　コブクロ.flv exists. saved.
+	ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.flv saved.
+	ピアノ演奏　『シネマノスタルジー』　：　久石 譲.flv saved.
+	ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.flv saved.
+	ピアノ演奏　『風笛』　：　大島 ミチル.flv exists. saved.
+	ピアノ演奏　『風のように』　：　S.E.N.S..flv exists. saved.
+	ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv exists. saved.
+	ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.flv saved.
+	ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv exists. saved.
+	ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.flv saved.
+	ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.flv saved.
+	ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv exists. saved.
+	ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.flv saved.
+	ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv exists. saved.
+	ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv exists. saved.
+	ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv exists. saved.
+	ピアノ演奏　『Longing - Love』　：　George Winston.flv saved.
+	ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.flv saved.
+	ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.flv saved.
+	ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.flv saved.
+	ピアノ演奏　〜　冬のソナタ　〜　『初めて』.flv saved.
+	ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.flv saved.
+	ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.flv saved.
+	ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.flv saved.
+	ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.flv saved.
+	ピアノ演奏　〜　ライムライト　〜　『ライムライト』.flv saved.
+	ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.flv saved.
+	ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.flv saved.
+	ピアノ演奏　〜　ふたり　〜　『草の想い』.flv saved.
+	ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.flv saved.
+	ピアノ演奏　『旅』　：　西村 由紀江.flv saved.
+	ピアノ演奏　『ひだまり』　：　西村 由紀江.flv saved.
+	ピアノ演奏　『好き』　：　西村 由紀江.flv saved.
+	ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.flv saved.
+	ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.flv saved.
+	ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.flv saved.
+	ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.flv saved.
+	ピアノ演奏　『黄昏のワルツ』　：　加古 隆.flv saved.
+	2009年 12月13日 日曜日 07時23分04秒 JST
+	foil bokutin % ls -al
+	total 535312
+	drwxr-xr-x  94 bokutin  staff      3196 12 13 07:34 .
+	drwxr-xr-x  51 bokutin  staff      1734 12 13 07:34 ..
+	drwxr-xr-x  12 bokutin  staff       408 12 13 06:29 .git
+	drwxr-xr-x   5 bokutin  staff       170 12 13 03:03 scribble
+	drwxr-xr-x   5 bokutin  staff       170 12 13 06:20 script
+	drwxr-xr-x   6 bokutin  staff       204 12 13 04:00 tmp
+	-rw-r--r--   1 bokutin  staff   4439816  2  6  2009 ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv
+	-rw-r--r--   1 bokutin  staff   2357916  2  6  2009 ピアノ演奏　〜 天国の階段 〜　『会いたい』.mp3
+	-rw-r--r--   1 bokutin  staff   2784019  2  8  2009 ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv
+	-rw-r--r--   1 bokutin  staff   1471425  2  8  2009 ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.mp3
+	-rw-r--r--   1 bokutin  staff   2705580  3 11  2009 ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.flv
+	-rw-r--r--   1 bokutin  staff   1458886  3 11  2009 ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.mp3
+	-rw-r--r--   1 bokutin  staff   4807279  4  6  2009 ピアノ演奏　『Longing - Love』　：　George Winston.flv
+	-rw-r--r--   1 bokutin  staff   1086484  4  6  2009 ピアノ演奏　『Longing - Love』　：　George Winston.mp3
+	-rw-r--r--   1 bokutin  staff   4295784  3 12  2009 ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv
+	-rw-r--r--   1 bokutin  staff   2085198  3 12  2009 ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.mp3
+	-rw-r--r--   1 bokutin  staff   2591073  4  5  2009 ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.flv
+	-rw-r--r--   1 bokutin  staff   1237786  4  5  2009 ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.mp3
+	-rw-r--r--   1 bokutin  staff   3872830  2  6  2009 ピアノ演奏　『旅』　：　西村 由紀江.flv
+	-rw-r--r--   1 bokutin  staff   1877681  2  6  2009 ピアノ演奏　『旅』　：　西村 由紀江.mp3
+	-rw-r--r--   1 bokutin  staff   3189837 11 17  2008 ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.flv
+	-rw-r--r--   1 bokutin  staff   1548747 11 17  2008 ピアノ演奏　『美女と野獣』　BEAUTY AND THE BEAST.mp3
+	-rw-r--r--   1 bokutin  staff   3037469 11 17  2008 ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.flv
+	-rw-r--r--   1 bokutin  staff   1472052 11 17  2008 ピアノ演奏　『星に願いを』　WHEN YOU WISH UP ON A STAR.mp3
+	-rw-r--r--   1 bokutin  staff   5658834  4 14  2009 ピアノ演奏　『好き』　：　西村 由紀江.flv
+	-rw-r--r--   1 bokutin  staff   2308683  4  7  2009 ピアノ演奏　『風笛』　：　大島 ミチル.flv
+	-rw-r--r--   1 bokutin  staff   1239950  4 14  2009 ピアノ演奏　『好き』　：　西村 由紀江.mp3
+	-rw-r--r--   1 bokutin  staff   1093799  4  7  2009 ピアノ演奏　『風笛』　：　大島 ミチル.mp3
+	-rw-r--r--   1 bokutin  staff   3032958  3 15  2009 ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv
+	-rw-r--r--   1 bokutin  staff   1398909  3 15  2009 ピアノ演奏　『ラピシア』　：　 加羽沢美濃.mp3
+	-rw-r--r--   1 bokutin  staff   2456043 11 18  2008 ピアノ演奏　『風のように』　：　S.E.N.S..flv
+	-rw-r--r--   1 bokutin  staff   1181779 11 18  2008 ピアノ演奏　『風のように』　：　S.E.N.S..mp3
+	-rw-r--r--   1 bokutin  staff   3630642  3 29  2009 ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.flv
+	-rw-r--r--   1 bokutin  staff   1682076  3 29  2009 ピアノ演奏　〜　冬のソナタ　〜　『 あなただけが』.mp3
+	-rw-r--r--   1 bokutin  staff   4371996  2 11  2009 ピアノ演奏　『蕾』　：　コブクロ.flv
+	-rw-r--r--   1 bokutin  staff   2319464  2 11  2009 ピアノ演奏　『蕾』　：　コブクロ.mp3
+	-rw-r--r--   1 bokutin  staff   4556244  4 14  2009 ピアノ演奏　『ひだまり』　：　西村 由紀江.flv
+	-rw-r--r--   1 bokutin  staff    993843  4 14  2009 ピアノ演奏　『ひだまり』　：　西村 由紀江.mp3
+	-rw-r--r--   1 bokutin  staff   5098638  4 14  2009 ピアノ演奏　『黄昏のワルツ』　：　加古 隆.flv
+	-rw-r--r--   1 bokutin  staff   1106613  4 14  2009 ピアノ演奏　『黄昏のワルツ』　：　加古 隆.mp3
+	-rw-r--r--   1 bokutin  staff   7841425  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.flv
+	-rw-r--r--   1 bokutin  staff   1700880  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『Ｍｙ Ｍemory 』.mp3
+	-rw-r--r--   1 bokutin  staff   9807631 11 18  2008 ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv
+	-rw-r--r--   1 bokutin  staff   5239745 11 18  2008 ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.mp3
+	-rw-r--r--   1 bokutin  staff   4199427 11 18  2008 ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv
+	-rw-r--r--   1 bokutin  staff   7876926  4 14  2009 ピアノ演奏　〜　ふたり　〜　『草の想い』.flv
+	-rw-r--r--   1 bokutin  staff   2055523 11 18  2008 ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.mp3
+	-rw-r--r--   1 bokutin  staff   1736173  4 14  2009 ピアノ演奏　〜　ふたり　〜　『草の想い』.mp3
+	-rw-r--r--   1 bokutin  staff   2488914 11 17  2008 ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.flv
+	-rw-r--r--   1 bokutin  staff   1195781 11 17  2008 ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.mp3
+	-rw-r--r--   1 bokutin  staff   6284351  4  6  2009 ピアノ演奏　〜　冬のソナタ　〜　『初めて』.flv
+	-rw-r--r--   1 bokutin  staff   1432555  4  6  2009 ピアノ演奏　〜　冬のソナタ　〜　『初めて』.mp3
+	-rw-r--r--   1 bokutin  staff   4320732  2  7  2009 ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv
+	-rw-r--r--   1 bokutin  staff   2293760  2  7  2009 ピアノ演奏　『蒼くやさしく』　：　コブクロ.mp3
+	-rw-r--r--   1 bokutin  staff   4754402  3 29  2009 ピアノ演奏　『シネマノスタルジー』　：　久石 譲.flv
+	-rw-r--r--   1 bokutin  staff   2342661  3 29  2009 ピアノ演奏　『シネマノスタルジー』　：　久石 譲.mp3
+	-rw-r--r--   1 bokutin  staff   5017100  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.flv
+	-rw-r--r--   1 bokutin  staff   1086408  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『記憶の中へ』.mp3
+	-rw-r--r--   1 bokutin  staff   4378081  4  6  2009 ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv
+	-rw-r--r--   1 bokutin  staff   4388865  3 15  2009 ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv
+	-rw-r--r--   1 bokutin  staff   2369416 10  1 18:14 ピアノ演奏　〜　ライムライト　〜　『ライムライト』.flv
+	-rw-r--r--   1 bokutin  staff   2528357  2 11  2009 ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.flv
+	-rw-r--r--   1 bokutin  staff   5630038  4  5  2009 ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.flv
+	-rw-r--r--   1 bokutin  staff  12087473  4 14  2009 ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.flv
+	-rw-r--r--   1 bokutin  staff   5568349 11 18  2008 ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.flv
+	-rw-r--r--   1 bokutin  staff    984293  4  6  2009 ピアノ演奏　『青春の輝き』　：　カーペンターズ.mp3
+	-rw-r--r--   1 bokutin  staff   2132427  3 15  2009 ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.mp3
+	-rw-r--r--   1 bokutin  staff    987246 10  1 18:14 ピアノ演奏　〜　ライムライト　〜　『ライムライト』.mp3
+	-rw-r--r--   1 bokutin  staff   1205812  2 11  2009 ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.mp3
+	-rw-r--r--   1 bokutin  staff   1737038  4  5  2009 ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.mp3
+	-rw-r--r--   1 bokutin  staff   2667497  4 14  2009 ピアノ演奏　〜　菊次郎の夏　〜　『Ｓｕｍｍｅｒ』　.mp3
+	-rw-r--r--   1 bokutin  staff   2747663 11 18  2008 ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.mp3
+	-rw-r--r--   1 bokutin  staff   2802833  3 13  2009 ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.flv
+	-rw-r--r--   1 bokutin  staff   2440189  2  9  2009 ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.flv
+	-rw-r--r--   1 bokutin  staff   1340186  3 13  2009 ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.mp3
+	-rw-r--r--   1 bokutin  staff   1291493  2  9  2009 ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.mp3
+	-rw-r--r--   1 bokutin  staff   6480877  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.flv
+	-rw-r--r--   1 bokutin  staff   1418835  4 14  2009 ピアノ演奏　〜　冬のソナタ　〜　『はじめから今まで』.mp3
+	-rw-r--r--   1 bokutin  staff   2645164 11 17  2008 ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.flv
+	-rw-r--r--   1 bokutin  staff   3985422  2 19  2009 ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.flv
+	-rw-r--r--   1 bokutin  staff   4680131  4 15  2009 ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.flv
+	-rw-r--r--   1 bokutin  staff   1277283 11 17  2008 ピアノ演奏　『ロミオとジュリエット』　：　ニーノ・ロータ.mp3
+	-rw-r--r--   1 bokutin  staff   1967751  2 19  2009 ピアノ演奏　〜　ゴッドファーザー　〜　『愛のテーマ』.mp3
+	-rw-r--r--   1 bokutin  staff    994682  4 15  2009 ピアノ演奏　〜　海の上のピアニスト　〜　『愛を奏でて』.mp3
+	-rw-r--r--   1 bokutin  staff   2754615 11 17  2008 ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.flv
+	-rw-r--r--   1 bokutin  staff   1327229 11 17  2008 ピアノ演奏　〜　アラジン　〜　『ホール・ニュー・ワールド 』.mp3
+	-rw-r--r--   1 bokutin  staff   2395006 11 18  2008 ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv
+	-rw-r--r--   1 bokutin  staff   1147924 11 18  2008 ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.mp3
+	-rw-r--r--   1 bokutin  staff   7402607  4 14  2009 ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.flv
+	-rw-r--r--   1 bokutin  staff   1604435  4 14  2009 ピアノ演奏　『想い出をかさねて』　：　アンドレ・ギャニオン.mp3
+	-rw-r--r--   1 bokutin  staff   5803787  4  6  2009 ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.flv
+	-rw-r--r--   1 bokutin  staff   1324930  4  6  2009 ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.mp3
+	-rw-r--r--   1 bokutin  staff   7649581  4 15  2009 ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv
+	-rw-r--r--   1 bokutin  staff   1622919  4 15  2009 ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.mp3
+	foil bokutin %
