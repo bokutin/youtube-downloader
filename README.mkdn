@@ -7,27 +7,27 @@
 	scribble        script          tmp
 	foil bokutin % script/youtube-downloader.pl --user 19770415; date
 	ピアノ演奏　〜　千と千尋の神隠し　〜　『あの夏へ』.flv saved.
-	ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv exists. saved.
-	ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv exists. saved.
-	ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv exists. saved.
-	ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv exists. saved.
-	ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv exists. saved.
-	ピアノ演奏　『蕾』　：　コブクロ.flv exists. saved.
+	ピアノ演奏　『情熱大陸』　：　葉加瀬太郎.flv saved.
+	ピアノ演奏　〜　もののけ姫　〜　『アシタカとサン』.flv saved.
+	ピアノ演奏　〜　ニュー・シネマ・パラダイス　〜　『成長・愛のテーマ』.flv saved.
+	ピアノ演奏　『めぐり逢い』　：　アンドレ・ギャニオン　.flv saved.
+	ピアノ演奏　〜 天国の階段 〜　『会いたい』.flv saved.
+	ピアノ演奏　『蕾』　：　コブクロ.flv saved.
 	ピアノ演奏　〜　天空の城ラピュタ　〜　『空から降ってきた少女』.flv saved.
 	ピアノ演奏　『シネマノスタルジー』　：　久石 譲.flv saved.
 	ピアノ演奏　〜　風の谷のナウシカ　〜　『風の伝説』.flv saved.
-	ピアノ演奏　『風笛』　：　大島 ミチル.flv exists. saved.
-	ピアノ演奏　『風のように』　：　S.E.N.S..flv exists. saved.
-	ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv exists. saved.
+	ピアノ演奏　『風笛』　：　大島 ミチル.flv saved.
+	ピアノ演奏　『風のように』　：　S.E.N.S..flv saved.
+	ピアノ演奏　『ラピシア』　：　 加羽沢美濃.flv saved.
 	ピアノ演奏　『霧のレイクルイーズ』　：　 倉本裕基.flv saved.
-	ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv exists. saved.
+	ピアノ演奏　『蒼くやさしく』　：　コブクロ.flv saved.
 	ピアノ演奏　〜　悲しき恋歌　〜　『僕に来てくれるかな』.flv saved.
 	ピアノ演奏　〜　悲しき恋歌　〜　『何度も別れても』.flv saved.
-	ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv exists. saved.
+	ピアノ演奏　〜 天国の階段 〜　『僕だけの君』.flv saved.
 	ピアノ演奏　〜 天国の階段 〜　『終わりではないことを』.flv saved.
-	ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv exists. saved.
-	ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv exists. saved.
-	ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv exists. saved.
+	ピアノ演奏　〜　砂の器　〜　『宿命　第1楽章』.flv saved.
+	ピアノ演奏　『青春の輝き』　：　カーペンターズ.flv saved.
+	ピアノ演奏　『Lovin' You』　 ：　Minnie Riperton.flv saved.
 	ピアノ演奏　『Longing - Love』　：　George Winston.flv saved.
 	ピアノ演奏　〜　The Sound of Music　〜　『My Favorite Things』.flv saved.
 	ピアノ演奏　『ブエノスアイレスの冬』　：　ピアソラ.flv saved.
